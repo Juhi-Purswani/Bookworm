@@ -26,9 +26,9 @@
 							?>
 					</div>
 				</div>
-			<!-- end header -->
+			<!-- this is the end header -->
 			
-			<!-- start page -->
+			<!-- this is the start page -->
 
 				<div id="page">
 					<!-- start content -->
