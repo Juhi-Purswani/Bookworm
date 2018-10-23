@@ -18,7 +18,8 @@
 											
 											<b>Password:</b>
 											<br><input type="password" name="pwd">
-											<input type="submit" id="x" value="Login" />
+											<input type="submit" id="x" value="Login"
+											<a href = "./register.php" />
 										</form>';
 							}
 						?>

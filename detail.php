@@ -12,14 +12,7 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-	<link rel="stylesheet" href="lightbox.css" type="text/css" media="screen" />
-	<script src="js/prototype.js" type="text/javascript"></script>
-	<script src="js/scriptaculous.js?load=effects" type="text/javascript"></script>
-	<script src="js/lightbox.js" type="text/javascript"></script>
-    <script type="text/javascript" src="js/java.js"></script>
-		<?php
-			include("includes/head.inc.php");
-		?>
+	
 </head>
 
 <body>
