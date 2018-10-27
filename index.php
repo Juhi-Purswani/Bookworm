@@ -47,14 +47,11 @@
         <li><a href="#about" class="page-scroll">About</a></li>
         <li><a href="#explore" class="page-scroll">Explore</a></li>
         <li><a href="#otherattrac" class="page-scroll">Other Attractions</a></li>
-
-       
         <li><a href="#team" class="page-scroll">Team</a></li>
         <li><a href="#contact" class="page-scroll">Contact</a></li>
-        
         <li><a href="includes/login.inc.php" class="page-scroll"> Login</a></li>
-                <li><a href="upload.php" class="page-scroll"> Sell</a></li>
-                <li><a href="viewcart.php" class="page-scroll"> ViewCart</a></li>
+        <li><a href="upload.php" class="page-scroll"> Sell</a></li>
+        <li><a href="viewcart.php" class="page-scroll"> ViewCart</a></li>
       </ul>
     </div>
 
